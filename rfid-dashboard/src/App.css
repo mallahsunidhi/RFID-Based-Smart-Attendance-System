@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background: #0d1117;
+  color: #ffffff;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+.title {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  color: #00d8ff;
+}
+
+.kpi-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.kpi-card {
+  width: 220px;
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.present {
+  background: #4caf50;
+}
+
+.absent {
+  background: #f44336;
+}
+
+.late {
+  background: #ff9800;
+}
