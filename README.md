@@ -38,14 +38,14 @@ Designed to showcase skills in:
 ## 🖼️ Screenshots
 
 RFID Scanning (Valid & Invalid)
+
 ![Invalid Scan](Images_RFID/Invalid_Scan.jpg)
+
 ![Attendance Recorded](Images_RFID/Attendance_Recorded.jpg)
 
 Dashboard
 ![Dashboard](Images_RFID/Dashboard.jpg)
 
-Email Notification
-![Mail Notification](Images_RFID/Mail_Notification.jpg)
 
 🔌 How It Works
 
