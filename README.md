@@ -44,6 +44,8 @@ RFID Scanning (Valid & Invalid)
 ![Attendance Recorded](Images_RFID/Attendance_Recorded.jpg)
 
 Dashboard
+
+
 ![Dashboard](Images_RFID/Dashboard.jpg)
 
 
