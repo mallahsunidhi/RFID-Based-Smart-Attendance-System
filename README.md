@@ -105,6 +105,5 @@ Access the dashboard at http://localhost:3000
 📍 IoT & Full-Stack Developer | Smart Systems & Automation Enthusiast
 🌐 GitHub Profile
 
-🏁 Summary
 This RFID-based system demonstrates a seamless integration of hardware, backend, and frontend — a real-world IoT product pipeline.
 It’s an excellent example of practical automation and data-driven web integration using modern tools.
