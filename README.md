@@ -47,36 +47,6 @@ Dashboard
 Email Notification
 ![Mail Notification](Images_RFID/Mail_Notification.jpg)
 
-
-## 📂 Project Structure
-
-rfid_attendance_system/
-│
-├── api/
-│ ├── save_attendance.php # Handles POST from ESP32
-│ └── get_attendance_report.php
-│ ├── get_attendance_trend.php
-│ └── get_kpi_data.php
-│ ├── get_top_attendance.php
-│ └── get_weekly_comparison.php
-│ ├── send_email.php
-│ └── send_sms.php
-│
-├── rfid-dashboard/ # React frontend
-│ ├── src/
-│ └── public/
-│
-├── RFID-BASED-SMART-ATTENDANCE-SYSTEM/
-│ └── RFID-BASED-SMART-ATTENDANCE-SYSTEM.ino # ESP32 code
-│
-├── phpmailer/ # Mail library
-├── config/
-│ └── db_connect.php
-├── vendor/
-├── .gitignore
-├── composer.json
-└── README.md
-
 🔌 How It Works
 
 1. **ESP32 Setup** — Connects to Wi-Fi and waits for RFID scans.  
